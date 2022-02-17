@@ -27,7 +27,7 @@ r_text[17] = "\n hey mishter ningalude per entha..?";
 r_text[18] = "enikk njan und ᴀᴄʜᴜᴍᴡᴏʟ uyir";
 r_text[19] = "\n eda sathyam para nee ente fan alle..\n ";
 r_text[20] = "The coefficient's of linear expansions is the position of Haemoglobin in the atmosphere. But Why? Full Many gem of purests serene lay underneath the unfathomed ocean's unblossomeds ! But why? But why";
-r_text[21] = "Kochi pazhaya kochiyellennariyam… pakshe ᴀᴄʜᴜᴍᴡᴏʟ pazhaya ᴀᴄʜᴜᴍᴡᴏʟ thanneya...😎\n\n";
+r_text[21] = "Kochi pazhaya kochiyellennariyam… pakshe shibi pazhaya shibi thanneya...😎\n\n";
 r_text[22] = "Kaanaan oru look illanney ullu… bhayankara budhiya\n\n ninnak allatto enik Miss ᴀᴄʜᴜᴍᴡᴏʟKK";
 r_text[23] = "Ithalla ithinapparam chaadi kadannavananee Miss ᴀᴄʜᴜᴍᴡᴏʟ😆";
 r_text[24] = "\nVarrierey… Enthado njan inganey aayi poyathu\n";
@@ -36,7 +36,7 @@ r_text[26] = "\nAthu enne uddheshichanu… enne thanney uddheshichanu… enne ma
 r_text[27] = "\nBeedi undo saghave, oru theepetti edukkan\n";
 r_text[28] = "\nIppo sheriyakithara… ippo sheriyakithara…\n";
 r_text[29] = "\nEnne kollathirikkan pattuo? illa alley?\n";
-r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Miss Aʙᴜ SER";    
+r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Miss shibi SER";    
 var i = Math.floor(31*Math.random())
 
 await message.sendMessage(r_text[i]);
