@@ -20,17 +20,18 @@ var ddd = ggg.toString('utf-8')
 Neotro.addCommand({pattern: 'owner', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: 'Achumwol Bᴏᴛ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tʜɪs Oᴡɴᴇʀs Achumwol Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Achumwol Bᴏᴛ Bʏ shibi sᴇʀ *\n 🔮 http://wa.me/+917594029466.\n\n🎭 *Achumwol Bᴏᴛ Bʏ shibi sᴇʀ*", rowId:" rowid1"},
-        {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/SHIBI-SER/Achumwol\n\n ", rowId:"rowid2"},
-        {title: 'Achumwol Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv\n\n ", rowId:" rowid5"}, 
+        {title: 'Aʙᴜ Bᴏᴛ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tʜɪs Oᴡɴᴇʀs Aʙᴜ Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aʙᴜ sᴇʀ *\n 🔮 http://wa.me/+917025994178.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀᴢᴛʀᴏ sᴇʀ *\n 🔮 http://wa.me/+918281440156.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Lᴜᴄᴋʏ Sᴇʀ*\n🔮 http://wa.me/+916238748280\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀʟɴ*\n🔮 http://wa.me/+916238532742\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aᴘᴘᴜ Sᴇʀ*\n🔮 http://wa.me/+918590432917\n\n ", rowId:" rowid1"},
+        {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Ajx-Abu/Abu-bot\n\n ", rowId:"rowid2"},
+        {title: 'Aʙᴜ Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk\n\n ", rowId:" rowid5"},
+        {title: 'Kᴀʟɴ Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "Aʙᴜ Bᴏᴛ Mᴀᴋɪɴɢ Vɪᴅᴇᴏ Tʜɪs Cʜᴀɴᴀʟ\n\n\n*Kᴀʟᴀɴ Sᴇʀ Cʜᴀɴᴀʟ Sᴜʙsᴄʀᴀɪʙᴇ*\n\n*https://youtu.be/OYhA_ZNQ4GQ* ", rowId:" rowid6"},
         {title: 'Bᴏᴛ Gʀᴏᴜᴘ Dᴇsᴄʀɪᴘᴛɪᴏɴ', description: "Nɪʏᴀᴍᴀᴍ Iɴɪ Eʟʟᴀᴠᴀʀᴋᴋᴜᴍ Bᴀᴅʜᴀᴋᴀ Mᴀɴ \n\n\n☃️ᴏɴɴᴜᴍ ɪʟʟᴀ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ😁 \n\n  ", rowId:" rowid7"}
        ]
        
-       const sections = [{title: "shibi sᴇʀ ❤️", rows: rows}]
+       const sections = [{title: "Aʙᴜ sᴇʀ ❤️", rows: rows}]
        
        const button = {
-        buttonText: '💚Achumwol Bᴏᴛ💚',
-        description: "💖✻Achumwol Bᴏᴛ✻💖",
+        buttonText: '💚Aʙᴜ Bᴏᴛ💚',
+        description: "💖✻Aʙᴜ Sᴇʀ Bᴏᴛ✻💖",
         sections: sections,
         listType: 1
        }
