@@ -22,7 +22,7 @@ Neotro.addCommand({pattern: 'owner', fromMe: false, dontAddCommandList: true}, (
     const rows = [
         {title: 'Achumwol Bᴏᴛ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tʜɪs Oᴡɴᴇʀs Achumwol Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Achumwol Bᴏᴛ Bʏ shibi sᴇʀ *\n 🔮 http://wa.me/+917594029466.\n\n🎭 *Achumwol Bᴏᴛ Bʏ shibi sᴇʀ*", rowId:" rowid1"},
         {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/SHIBI-SER/Achumwol\n\n ", rowId:"rowid2"},
-        {title: 'Achumwol Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv\n\n ", rowId:" rowid5"}
+        {title: 'Achumwol Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv\n\n ", rowId:" rowid5"}, 
         {title: 'Bᴏᴛ Gʀᴏᴜᴘ Dᴇsᴄʀɪᴘᴛɪᴏɴ', description: "Nɪʏᴀᴍᴀᴍ Iɴɪ Eʟʟᴀᴠᴀʀᴋᴋᴜᴍ Bᴀᴅʜᴀᴋᴀ Mᴀɴ \n\n\n☃️ᴏɴɴᴜᴍ ɪʟʟᴀ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ😁 \n\n  ", rowId:" rowid7"}
        ]
        
