@@ -11,7 +11,7 @@ asena.addCommand({pattern: 'gm', fromMe: true, deleteCommand: true, desc: GM,}, 
 
     var r_text = new Array ();
 
-    r_text[1] = "✌︎ ᴇᴠᴀᴅᴇ ᴇʟʟᴀʀᴜᴍ ɪᴘᴘᴀʏᴜᴍ ᴇɴᴇᴇᴛɪᴛɪʟʟᴇ✌︎ Aʙᴜ sᴇʀ ᴇɴᴛᴜᴠᴀɴɴᴜ𖣘Eʟʟᴀʀᴋᴋᴜᴍ ✩Nᴀʟʟᴀ Oʀᴜ 😍Gᴏᴏᴅ Mᴏʀɴɪɴɢ😍";
+    r_text[1] = "✌︎ ᴇᴠᴀᴅᴇ ᴇʟʟᴀʀᴜᴍ ɪᴘᴘᴀʏᴜᴍ ᴇɴᴇᴇᴛɪᴛɪʟʟᴇ✌︎ ᴀᴄʜᴜᴍᴡᴏʟ ᴇɴᴛᴜᴠᴀɴɴᴜ𖣘Eʟʟᴀʀᴋᴋᴜᴍ ✩Nᴀʟʟᴀ Oʀᴜ 😍Gᴏᴏᴅ Mᴏʀɴɪɴɢ😍";
     r_text[2] ="☘️𝐺𝑜𝑜𝑑 🌅𝑚𝑜𝑟𝑛𝑖𝑛𝑔 💐";
     r_text[3] ="🍃𝙶𝚘𝚘𝚍 🌻𝚖𝚘𝚛𝚗𝚒𝚗𝚐 🥰";
     r_text[4] ="🍀𝗚𝗼𝗼𝗱 😘𝗺𝗼𝗿𝗻𝗶𝗻𝗴 🌸";
@@ -32,7 +32,7 @@ asena.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,}, 
 
         var r_text = new Array ();
     
-        r_text[1] = "😴Tʜᴇ Aʙᴜ Sᴇʀ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💘Eʟʟᴀᴇᴋᴋᴜᴍ Oʀᴜ Nᴀʟʟᴀ 💫Gᴏᴏᴅ Nɪɢᴛʜ✨";
+        r_text[1] = "😴Tʜᴇ ᴀᴄʜᴜᴍᴡᴏʟ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💘Eʟʟᴀᴇᴋᴋᴜᴍ Oʀᴜ Nᴀʟʟᴀ 💫Gᴏᴏᴅ Nɪɢᴛʜ✨";
         r_text[2] ="🤗𝓖𝓸𝓸𝓭 🧚‍♀𝓷𝓲𝓰𝓱𝓽 ❄️✨";
         r_text[3] ="🌌❡០០ᖱ 🌙⩎ɨ❡ϦƬ 🌎";
         r_text[4] ="😘ցօօժ ⭐️ղíցհԵ 💝";
@@ -55,7 +55,7 @@ asena.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,}, 
         
             var r_text = new Array ();
         
-            r_text[1] = "✌︎ ᴇᴠᴀᴅᴇ ᴇʟʟᴀʀᴜᴍ ɪᴘᴘᴀʏᴜᴍ ᴇɴᴇᴇᴛɪᴛɪʟʟᴇ✌︎ Aʙᴜ sᴇʀ ᴇɴᴛᴜᴠᴀɴɴᴜ𖣘Eʟʟᴀʀᴋᴋᴜᴍ ✩Nᴀʟʟᴀ Oʀᴜ 😍Gᴏᴏᴅ Mᴏʀɴɪɴɢ😍";
+            r_text[1] = "✌︎ ᴇᴠᴀᴅᴇ ᴇʟʟᴀʀᴜᴍ ɪᴘᴘᴀʏᴜᴍ ᴇɴᴇᴇᴛɪᴛɪʟʟᴇ✌︎ ᴀᴄʜᴜᴍᴡᴏʟ ᴇɴᴛᴜᴠᴀɴɴᴜ𖣘Eʟʟᴀʀᴋᴋᴜᴍ ✩Nᴀʟʟᴀ Oʀᴜ 😍Gᴏᴏᴅ Mᴏʀɴɪɴɢ😍";
             r_text[2] ="☘️𝐺𝑜𝑜𝑑 🌅𝑚𝑜𝑟𝑛𝑖𝑛𝑔 💐";
             r_text[3] ="🍃𝙶𝚘𝚘𝚍 🌻𝚖𝚘𝚛𝚗𝚒𝚗𝚐 🥰";
             r_text[4] ="🍀𝗚𝗼𝗼𝗱 😘𝗺𝗼𝗿𝗻𝗶𝗻𝗴 🌸";
@@ -76,7 +76,7 @@ asena.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,}, 
         
                 var r_text = new Array ();
             
-                r_text[1] = "😴Tʜᴇ Aʙᴜ Sᴇʀ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💘Eʟʟᴀᴇᴋᴋᴜᴍ Oʀᴜ Nᴀʟʟᴀ 💫Gᴏᴏᴅ Nɪɢᴛʜ✨";
+                r_text[1] = "😴Tʜᴇ ᴀᴄʜᴜᴍᴡᴏʟ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💘Eʟʟᴀᴇᴋᴋᴜᴍ Oʀᴜ Nᴀʟʟᴀ 💫Gᴏᴏᴅ Nɪɢᴛʜ✨";
                 r_text[2] ="🤗𝓖𝓸𝓸𝓭 🧚‍♀𝓷𝓲𝓰𝓱𝓽 ❄️✨";
                 r_text[3] ="🌌❡០០ᖱ 🌙⩎ɨ❡ϦƬ 🌎";
                 r_text[4] ="😘ցօօժ ⭐️ղíցհԵ 💝";
@@ -94,7 +94,7 @@ asena.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,}, 
         
                     var r_text = new Array ();
                 
-                    r_text[1] = "✌︎ ᴇᴠᴀᴅᴇ ᴇʟʟᴀʀᴜᴍ ɪᴘᴘᴀʏᴜᴍ ᴇɴᴇᴇᴛɪᴛɪʟʟᴇ✌︎ Aʙᴜ sᴇʀ ᴇɴᴛᴜᴠᴀɴɴᴜ𖣘Eʟʟᴀʀᴋᴋᴜᴍ ✩Nᴀʟʟᴀ Oʀᴜ 😍Gᴏᴏᴅ Mᴏʀɴɪɴɢ😍";
+                    r_text[1] = "✌︎ ᴇᴠᴀᴅᴇ ᴇʟʟᴀʀᴜᴍ ɪᴘᴘᴀʏᴜᴍ ᴇɴᴇᴇᴛɪᴛɪʟʟᴇ✌︎ ᴀᴄʜᴜᴍᴡᴏʟ ᴇɴᴛᴜᴠᴀɴɴᴜ𖣘Eʟʟᴀʀᴋᴋᴜᴍ ✩Nᴀʟʟᴀ Oʀᴜ 😍Gᴏᴏᴅ Mᴏʀɴɪɴɢ😍";
                     r_text[2] ="☘️𝐺𝑜𝑜𝑑 🌅𝑚𝑜𝑟𝑛𝑖𝑛𝑔 💐";
                     r_text[3] ="🍃𝙶𝚘𝚘𝚍 🌻𝚖𝚘𝚛𝚗𝚒𝚗𝚐 🥰";
                     r_text[4] ="🍀𝗚𝗼𝗼𝗱 😘𝗺𝗼𝗿𝗻𝗶𝗻𝗴 🌸";
@@ -115,7 +115,7 @@ asena.addCommand({pattern: 'gn', fromMe: true, deleteCommand: true, desc: GN,}, 
                 
                         var r_text = new Array ();
                     
-                        r_text[1] = "😴Tʜᴇ Aʙᴜ Sᴇʀ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💘Eʟʟᴀᴇᴋᴋᴜᴍ Oʀᴜ Nᴀʟʟᴀ 💫Gᴏᴏᴅ Nɪɢᴛʜ✨";
+                        r_text[1] = "😴Tʜᴇ ᴀᴄʜᴜᴍᴡᴏʟ Uʀᴀɴɢᴀɴ Pᴏᴋᴀɴ 💘Eʟʟᴀᴇᴋᴋᴜᴍ Oʀᴜ Nᴀʟʟᴀ 💫Gᴏᴏᴅ Nɪɢᴛʜ✨";
                         r_text[2] ="🤗𝓖𝓸𝓸𝓭 🧚‍♀𝓷𝓲𝓰𝓱𝓽 ❄️✨";
                         r_text[3] ="🌌❡០០ᖱ 🌙⩎ɨ❡ϦƬ 🌎";
                         r_text[4] ="😘ցօօժ ⭐️ղíցհԵ 💝";
