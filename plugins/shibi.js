@@ -17,7 +17,7 @@ var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
 
 
-Maalutty.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+Maalutty.addCommand({pattern: 'setup', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
     const rows = [
