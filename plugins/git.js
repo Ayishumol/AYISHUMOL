@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎ꜱʜɪʙɪ Sᴇʀ Bᴏᴛ ➪ ꜱʜɪʙɪ»:-ᴀᴄʜᴜᴍᴡᴏʟ
 
-Aʙᴜ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv
+Achumwol ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv
 
 Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/SHIBI-SER/Achumwol
 
