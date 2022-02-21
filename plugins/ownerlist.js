@@ -22,8 +22,8 @@ Asena.addCommand({pattern: 'owner list', fromMe: false, desc: 'command give me o
    ` + config.LOGO_NAME + `
  
 
-🎗️ .ꜱʜɪʙɪ Sᴇʀ [Oᴡɴᴇʀ]
-💖 Wʜᴀᴛsᴀᴘᴘ Nᴜᴍʙᴇʀ:-wa.me/917594029466._  
+🎗️ .FASIL [Oᴡɴᴇʀ]
+💖 Wʜᴀᴛsᴀᴘᴘ Nᴜᴍʙᴇʀ:-wa.me/+919947430792._  
 `}) 
 
 }));
