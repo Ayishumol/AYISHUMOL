@@ -9,21 +9,21 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.imgur.com/EC7OcQS.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✌︎➪ᴀᴄʜᴜᴍᴡᴏʟ☜︎︎︎✌︎*
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917594029466
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✌︎➪AYISHUMOL☜︎︎︎✌︎*
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/+919947430792
 
-Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎ꜱʜɪʙɪ Sᴇʀ Bᴏᴛ ➪ ꜱʜɪʙɪ»:-ᴀᴄʜᴜᴍᴡᴏʟ
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎FASIL SER Bᴏᴛ ➪ Fasil»:-Ayishumol
 
-Achumwol ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv
+Achumwol ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/HA40jOppDy9Cj5r4dUPxUv
 
-Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/SHIBI-SER/Achumwol
+Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/Ayishumol/AYISHUMOL
 
-Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SHIBI-SER/Achumwol/tree/master/uploads
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/Ayishumol/AYISHUMOL/tree/master/uploads
 
-Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SHIBI-SER/Achumwol/tree/master/sticker
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/Ayishumol/AYISHUMOL/tree/master/sticker
 
 
-💝ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ ꜱʜɪʙɪ💝
+💝AYISHUMOL Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ FASIL💝
 `}) 
 
 }));
