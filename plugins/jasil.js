@@ -40,7 +40,7 @@ WhatsAlexa.addCommand({pattern: 'shibi', fromMe: whb, dontAddCommandList: true},
 
           contentText: "Hi Enthokke Und Bheei Chugam Thanne Allee? 😆",
 
-          footerText: 'SHIBI 𝐒𝐄𝐑 ©',
+          footerText: 'FASIL AF©',
 
           buttons: buttons,
 
