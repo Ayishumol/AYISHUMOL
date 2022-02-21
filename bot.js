@@ -119,7 +119,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             chalk.green.bold('thanks for watching -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'ABUSER' || config.AFPLK !== 'SHIBI' || config.AFPLK !== 'Abuser' || config.AFPLK !== 'pinky') {
+         else if (config.AFPLK !== 'ABUSER' || config.AFPLK !== 'FASIL' || config.AFPLK !== 'Abuser' || config.AFPLK !== 'pinky') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
@@ -153,12 +153,12 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💙Achumwol Working ' + config.WORKTYPE + ' now❤️'));
+            chalk.green.bold('Ayishumol Working ' + config.WORKTYPE + ' now❤️'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/achu.png"), MessageType.image, { caption: `*ʜᴇʏ ʙʀᴏ ᴀᴄʜᴜᴍᴡᴏʟ  ʙᴏᴛ ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` 🥂* \n\n*ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀᴄʜᴜᴍᴡᴏʟ ʙᴏᴛ💙* \n\n*ᴘʟᴇᴀsᴇ sᴀᴘᴘᴏʀᴛ ᴍʏ ᴄʜᴀɴɴᴇʟ❤️*`});
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/achu.png"), MessageType.image, { caption: `*ʜᴇʏ ʙʀᴏ AYISHUMOL ʙᴏᴛ ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` 🥂* \n\n*ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ AYISHUMOL ʙᴏᴛ💙* \n\n*ᴘʟᴇᴀsᴇ sᴀᴘᴘᴏʀᴛ ᴍʏ ᴄʜᴀɴɴᴇʟ❤️*`});
                 } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
@@ -168,7 +168,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n*Please Join First Out Support Group And Ask To Update*\n\n*https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv*' + degisiklikler + '```', MessageType.text
+                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n*Please Join First Out Support Group And Ask To Update*\n\n*https://chat.whatsapp.com/HA40jOppDy9Cj5r4dUPxUv*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS BY Achumwol ]*\n\n' + announce, MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS BY Ayishumol ]*\n\n' + announce, MessageType.text);
         }
 		while (getGMTh == 13 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -206,7 +206,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS BY Achumwol ]*\n\n' + announce, MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS BY Ayishumol ]*\n\n' + announce, MessageType.text);
         } 
 		while (getGMTh == 21 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -216,7 +216,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             if (config.LANG == 'EN') announce = sken
             if (config.LANG == 'ML') announce = skml
             
-            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS BY  Achumwol ]*\n\n' + announce, MessageType.text);
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS BY  Ayishumol ]*\n\n' + announce, MessageType.text);
         }
     }, 50000);//Thanks to souravkl11 
 
@@ -351,7 +351,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 💙 Achumwol ❤️ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 💙 Ayishumol ❤️ ~______~*' +
                                     '\n*🌀 Entho Evideyo Oru Preshnam Ullath Pole Thonunnu' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
