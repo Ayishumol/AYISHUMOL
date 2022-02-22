@@ -20,18 +20,18 @@ var ddd = ggg.toString('utf-8')
 Neotro.addCommand({pattern: 'owner', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: 'Achumwol Bᴏᴛ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tʜɪs Oᴡɴᴇʀs Shibi Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Achumwol Bᴏᴛ Bʏ shibi sᴇʀ *\n 🔮 http://wa.me/+917594029466.\n\n🎭 *ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Bʏ ꜱʜɪʙɪ sᴇʀ *\n 🔮 http://wa.me/+917594029466.\n\n🎭 *ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Bʏ ꜱʜɪʙɪ Sᴇʀ*\n🔮 http://wa.me/+917594029466\n\n🎭 *ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Bʏ ꜱʜɪʙɪ*\n🔮 http://wa.me/+917594029466\n\n🎭 *ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Bʏ ꜱʜɪʙɪ Sᴇʀ*\n🔮 http://wa.me/+917594029466\n\n ", rowId:" rowid1"},
-        {title: 'Gɪᴛ', description: "Achumwol  Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/SHIBI-SER/Achumwolbot\n\n ", rowId:"rowid2"},
-        {title: 'Achmwol Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv\n\n ", rowId:" rowid5"},
-        {title: 'shibi Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "ꜱʜɪʙɪ Sᴇʀ\n\n\n*```Owner id instagram````*\n\n*https://instagram.com/SHIBI__ZX* ", rowId:" rowid6"},
+        {title: 'ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tʜɪs Oᴡɴᴇʀs ꜰᴀꜱɪʟ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ Bʏ ꜰᴀꜱɪʟ *\n 🔮 http://wa.me/919947430792.\n\n🎭 *ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ Bʏ ꜰᴀꜱɪʟ *\n 🔮 http://wa.me/919947430792.\n\n🎭 *ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ Bʏ ꜰᴀꜱɪʟ*\n🔮 http://wa.me/+919947430792\n\n🎭 *ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ Bʏ ꜰᴀꜱɪʟ*\n🔮 http://wa.me/+919947430792\n\n🎭 *ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ Bʏ ꜰᴀꜱɪʟ*\n🔮 http://wa.me/+919947430792\n\n ", rowId:" rowid1"},
+        {title: 'Gɪᴛ', description: "ᴀʏɪꜱʜᴜᴍᴏʟ  Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Ayishumol/AYISHUMOLbot\n\n ", rowId:"rowid2"},
+        {title: 'ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/HA40jOppDy9Cj5r4dUPxUv\n\n ", rowId:" rowid5"},
+        {title: 'ꜰᴀꜱɪʟ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "ꜰᴀꜱɪʟ\n\n\n*```Owner id instagram````*\n\n*https://www.instagram.com/aftrolls_* ", rowId:" rowid6"}
         {title: 'Bᴏᴛ Gʀᴏᴜᴘ Dᴇsᴄʀɪᴘᴛɪᴏɴ', description: "Nɪʏᴀᴍᴀᴍ Iɴɪ Eʟʟᴀᴠᴀʀᴋᴋᴜᴍ Bᴀᴅʜᴀᴋᴀ Mᴀɴ \n\n\n☃️ᴏɴɴᴜᴍ ɪʟʟᴀ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ😁 \n\n  ", rowId:" rowid7"}
        ]
        
-       const sections = [{title: "ꜱʜɪʙɪ sᴇʀ ❤️", rows: rows}]
+       const sections = [{title: "ꜰᴀꜱɪʟ ❤️", rows: rows}]
        
        const button = {
-        buttonText: '💚Achumwol Bᴏᴛ💚',
-        description: "💖✻Achumwol Bᴏᴛ✻💖",
+        buttonText: '💚ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ💚',
+        description: "💖✻ᴀʏɪꜱʜᴜᴍᴏʟ Bᴏᴛ✻💖",
         sections: sections,
         listType: 1
        }
